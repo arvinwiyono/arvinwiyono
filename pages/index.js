@@ -53,7 +53,7 @@ export default function Home() {
           <ExternalLink url="https://www.monash.edu/it/about-us/news-and-events/latest/articles/2018/outstanding-fit-students-recognised">
             DUX of BSE from Monash University in 2018
           </ExternalLink>{" "}
-          and am fairly new in the software engineering industry.
+          and I am fairly new in the software engineering industry.
         </p>
         <p>
           A big passion of mine is creating beautiful software that solves
